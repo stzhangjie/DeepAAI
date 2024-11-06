@@ -1,3 +1,5 @@
+A published version is here: [https://github.com/enai4bio/DeepAAI](https://github.com/enai4bio/DeepAAI)
+
 ## A Novel Deep Learning Method for Identifying Antigen-Antibody Interactions (DeepAAI)
 DeepAAI is an advanced deep learning-based tool for identifying antigen-antibody interactions. We devise an automatically learned virtual graph to address antibodies’ high variability. The virtual graph connects seen and unseen antibodies by quantitating functional similarity based on the supervised signals from two downstream tasks: binary neutralization prediction and IC50 estimation.
 
